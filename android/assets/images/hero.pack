@@ -1,0 +1,40 @@
+hero
+size: 690, 453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero-1
+  rotate: false
+  xy: 349, 1
+  size: 204, 235
+  orig: 204, 235
+  offset: 0, 0
+  index: -1
+hero-2
+  rotate: false
+  xy: 349, 238
+  size: 197, 214
+  orig: 197, 214
+  offset: 0, 0
+  index: -1
+hero-3
+  rotate: false
+  xy: 1, 1
+  size: 346, 413
+  orig: 346, 413
+  offset: 0, 0
+  index: -1
+hero-4
+  rotate: false
+  xy: 548, 238
+  size: 141, 170
+  orig: 141, 170
+  offset: 0, 0
+  index: -1
+hero-5
+  rotate: false
+  xy: 555, 1
+  size: 111, 167
+  orig: 111, 167
+  offset: 0, 0
+  index: -1
